@@ -1,3 +1,8 @@
+# Morfeusz dictionary
+*.tab
+*.parquet
+sgjp-20221106.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
